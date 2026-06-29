@@ -1,0 +1,5 @@
+
+car={"brand":"Audi","model":"q7"}
+car_keys=car.keys()
+car["fuel type"]=diesel
+print(car_keys)
