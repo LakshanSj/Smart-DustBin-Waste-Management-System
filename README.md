@@ -1,1 +1,1 @@
-# Smart-DustBin---Waste-Management-System
+# Smart-DustBin-Waste-Management-System
